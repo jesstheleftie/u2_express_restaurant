@@ -11,6 +11,7 @@ For this lab, lets create a back end server that renders data for a mock restaur
 
 ## Requirements
 
+### Pt 1 - Express Intro
 - An Express Server with Index and Show routes for at least 3 different data models - Appetizers, Entrees, and Desserts
 - At least 3 objects within each Index Route
 - The ability to show an individual object by its Id in the route
@@ -20,3 +21,8 @@ For this lab, lets create a back end server that renders data for a mock restaur
 
 - We can show items by Id, can we filter and list a list of items by any other measurement (cuisine type, vegan/halal/kosher/ options...?) in our browser's URL via queries or params
 - Can we show individual items inside of a cuisine type by the objects name? (something like localhost:3001/cajun/jambalaya or /indian/chicken%20vindaloo)
+
+
+
+### Pt - Controllers - Do not attempt this section until we have completed our Controllers Lesson!
+- Convert all of your routes from being coded in your main .js file into being run with controller fiess in a nested controllers folder exported out
