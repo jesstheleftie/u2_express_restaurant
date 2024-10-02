@@ -17,6 +17,8 @@ For this lab, lets create a back end server that renders data for a mock restaur
 - The ability to show an individual object by its Id in the route
 - There is no limit to what you can do with each, but take some time to think of what your data should look like - Name? Price? An Image URL? How about booleans for things like Vegan, Gluten Free, Kosher, Halal...
 
+![](https://cdn.theatlantic.com/thumbor/fOhoLS3VjtYyRW_yGBphIC1yyis=/0x0:8192x4608/960x540/media/img/mt/2023/06/thebear_s2/original.jpg)
+
 ## Bonus 
 
 - We can show items by Id, can we filter and list a list of items by any other measurement (cuisine type, vegan/halal/kosher/ options...?) in our browser's URL via queries or params
