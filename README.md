@@ -24,7 +24,7 @@ For this lab, lets create a back end server that renders data for a mock restaur
 - We can show items by Id, can we filter and list a list of items by any other measurement (cuisine type, vegan/halal/kosher/ options...?) in our browser's URL via queries or params
 - Can we show individual items inside of a cuisine type by the objects name? (something like localhost:3001/cajun/jambalaya or /indian/chicken%20vindaloo)
 
-![](https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2249x1687+751+0/resize/2249x1687!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2Fc9%2F3fbe0b904ec68d2b844dbbe7cddf%2Fbear-e302-00-08-11-10-still006.jpg)
+![](https://ca-times.brightspotcdn.com/dims4/default/6644ae6/2147483647/strip/true/crop/3825x2555+0+0/resize/1200x802!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3c%2F35%2F69a96dcd4e47b9fa41aab9876a67%2Fthe-bear-201-0254r1.jpg)
 
 ### Pt 2 - Controllers - Do not attempt this section until we have completed our Controllers Lesson!
 - Convert all of your routes from being coded in your main .js file into being run with controller fiess in a nested controllers folder exported out
