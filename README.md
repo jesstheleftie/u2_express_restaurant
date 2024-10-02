@@ -5,7 +5,7 @@
 ![](https://media.gq.com/photos/62b9ffaec206adc9cdaa431b/16:9/w_3440,h_1935,c_limit/The_Bear_101_20210707_0043.jpg)
 ## Introduction
 
-Now that we have our Express code built up, creating new routes with controllers to display JSON Data, lets render some information out and see how it will look as we take it to the next step attaching Mongoose to express.
+Now that we have our Express code built up, creating new dynamic routes to display JSON Data, lets render some information out and see how it will look in our browser
 
 For this lab, lets create a back end server that renders data for a mock restaurant, detailing different types of cuisine, with JSON objects of the restaurant's dishes
 
