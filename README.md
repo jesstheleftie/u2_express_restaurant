@@ -14,7 +14,9 @@ For this lab, lets create a back end server that renders data for a mock restaur
 ### Pt 1 - Express Intro
 - An Express Server with Index routes for at least 3 different data models - Appetizers, Entrees, and Desserts
 - At least 3 objects within each Index Route
+- An additional route to catch any mispelled / falsey route inputs that returns "404, file not found"
 
+  
 - There is no limit to what you can do with each, but take some time to think of what your data should look like - Name? Price? An Image URL? How about booleans for things like Vegan, Gluten Free, Kosher, Halal...
 
 ![](https://cdn.theatlantic.com/thumbor/fOhoLS3VjtYyRW_yGBphIC1yyis=/0x0:8192x4608/960x540/media/img/mt/2023/06/thebear_s2/original.jpg)
