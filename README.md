@@ -14,7 +14,7 @@ For this lab, lets create a back end server that renders data for a mock restaur
 ### Pt 1 - Express Intro
 - An Express Server with Index and Show routes for at least 3 different data models - Appetizers, Entrees, and Desserts
 - At least 3 objects within each Index Route
-- The ability to show an individual object by its Id in the route
+
 - There is no limit to what you can do with each, but take some time to think of what your data should look like - Name? Price? An Image URL? How about booleans for things like Vegan, Gluten Free, Kosher, Halal...
 
 ![](https://cdn.theatlantic.com/thumbor/fOhoLS3VjtYyRW_yGBphIC1yyis=/0x0:8192x4608/960x540/media/img/mt/2023/06/thebear_s2/original.jpg)
@@ -27,4 +27,5 @@ For this lab, lets create a back end server that renders data for a mock restaur
 ![](https://ca-times.brightspotcdn.com/dims4/default/6644ae6/2147483647/strip/true/crop/3825x2555+0+0/resize/1200x802!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3c%2F35%2F69a96dcd4e47b9fa41aab9876a67%2Fthe-bear-201-0254r1.jpg)
 
 ### Pt 2 - Controllers - Do not attempt this section until we have completed our Controllers Lesson!
-- Convert all of your routes from being coded in your main .js file into being run with controller fiess in a nested controllers folder exported out
+- Convert all of your routes from being coded in your main .js file into being run with controller files in a nested controllers folder exported out
+- Create Show routes for all of your objects via their Id (or anything else you want to work with)
